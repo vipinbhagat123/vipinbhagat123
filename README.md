@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vipin Bhagat</h1>
-<h3 align="center">I'm a passionate data scientist driven by an unyielding commitment to continuous learning. With expertise in both data analysis and machine learning, I spend my leisure absorbed in books and music, endless wellsprings of joy and inspiration</h3>
+<h1 align="left">Hi 👋, I'm Vipin Bhagat</h1>
+<h3 align="left">I'm a passionate data scientist driven by an unyielding commitment to continuous learning. With expertise in both data analysis and machine learning, I spend my leisure absorbed in books and music, endless wellsprings of joy and inspiration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinbhagat&label=Profile%20views&color=0e75b6&style=flat" alt="vipinbhagat" /> </p>
 
