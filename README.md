@@ -25,6 +25,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vipinbhagat123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vipinbhagat123/vipinbhagat123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vipinbhagat123/vipinbhagat123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vipinbhagat123/vipinbhagat123/output/github-contribution-grid-snake.svg">
+</picture>    
+
 ---
 [![](https://visitcount.itsvg.in/api?id=vipinbhagat123&icon=0&color=1)](https://visitcount.itsvg.in)
 
