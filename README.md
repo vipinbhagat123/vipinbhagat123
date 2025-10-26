@@ -15,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vipinbhagat123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinbhagat123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img align="right" src="https://raw.githubusercontent.com/vipinbhagat123/vipinbhagat123/main/ezgif-263d9da9adedab.gif" width="400" alt="Coding GIF" style="margin-top: 2000px;">
+<img align="right" src="https://raw.githubusercontent.com/vipinbhagat123/vipinbhagat123/main/ezgif-263d9da9adedab.gif" width="400" alt="Coding GIF" style="margin-top: 40px;">
 
 
 ## 🏆 GitHub Trophies
